@@ -12,7 +12,7 @@ body{
 main{
     align-items: center;
     display: flex;
-    height: 100vh;
+    height: 90vh;
     justify-content: center;
     position: relative;
     border: none;
@@ -38,8 +38,8 @@ main > section.Intro p{
 }
 /*==Imagem dos Personagens==*/
 main > section.Bloco img{
-    height: 300px;
-    width: 300px;
+    height: 350px;
+    width: 350px;
     background-color: rgb(0, 0, 0);
     border: 7px solid rgb(255, 255, 255);
     border-radius: 20px;
@@ -51,12 +51,13 @@ main > section.Bloco img{
 /*==Nome dos Personagens==*/
 main > section.Bloco p{
     color: rgb(250, 31, 99);
-    margin: 5px 0;
+    margin: 3px;
     font-family: Impact;
     font-size: 32px;
-    width: 300px;
+    height: 50px;
+    width: 350px;
     text-align: center;
-    padding: 10px;
+    padding: 30px;
     border: 3px;
     border-radius: 3px;
     border-style: solid;
