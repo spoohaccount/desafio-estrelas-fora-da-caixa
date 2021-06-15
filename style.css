@@ -33,9 +33,6 @@ main > section.Botao button{
     bottom: 0;
     right: 0;
 }
-main > section.Intro p{
-    position: absolute;
-}
 /*==Imagem dos Personagens==*/
 main > section.Bloco img{
     height: 350px;
